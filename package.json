@@ -1,0 +1,11 @@
+{
+  "name": "sa47-fullstack",
+  "version": "0.0.1",
+  "description": "this is fullstack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent",
+  "license": "ISC"
+}
